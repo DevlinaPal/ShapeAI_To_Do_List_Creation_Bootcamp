@@ -1,7 +1,7 @@
 # ShapeAI_To_Do_List_Creation_Bootcamp
 SHAPEAI Fundamentals of Javascript and DOM BOOTCAMP
 <br><br>
-![](Images/photo.jpg)
+![](Bootcamp_Image/photo.jpg)
 <br><br><br>Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Kartik Gupta (Ex-intern @ENTHU.AI & Google Summer of Code). I got to
