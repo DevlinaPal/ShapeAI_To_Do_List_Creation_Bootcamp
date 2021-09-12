@@ -5,8 +5,7 @@ Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 The instructor during the session was Mr. Kartik Gupta (Ex-intern @ENTHU.AI & Google Summer of Code). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
 <br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtube.com/playlist?list=PLoZMYilFH4yPMmNKiYa-nomvWhP1VBeVb"></a>
-![](Images/photo.jpg)
+<a href="https://youtube.com/playlist?list=PLoZMYilFH4yPMmNKiYa-nomvWhP1VBeVb"><img src="![](Images/photo.jpg)"></a>
 <br>I got to have hands on experience on:
 <li>JavaScript
 <li>HTML
