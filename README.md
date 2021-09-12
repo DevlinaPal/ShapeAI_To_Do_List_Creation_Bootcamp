@@ -1,12 +1,11 @@
 # ShapeAI_To_Do_List_Creation_Bootcamp
 SHAPEAI Fundamentals of Javascript and DOM BOOTCAMP
 ![](Images/photo.jpg)
-<br><br><br><br><br>Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
+<br><br><br>Hi I made this project during the 7 Days Free Bootcamp, conducted by <b> SHAPEAI
 </b>.
 The instructor during the session was Mr. Kartik Gupta (Ex-intern @ENTHU.AI & Google Summer of Code). I got to
 learn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
-<br><br>Here's the link for you to watch the sessions as well<br>
-<a href="https://youtube.com/playlist?list=PLoZMYilFH4yPMmNKiYa-nomvWhP1VBeVb"><img src="https://github.com/DevlinaPal/Images/photo.png"></a>
+<br><br><img src="https://github.com/DevlinaPal/Images/photo.png">
 <br>I got to have hands on experience on:
 <li>JavaScript
 <li>HTML
